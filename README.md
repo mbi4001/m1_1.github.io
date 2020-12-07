@@ -6,3 +6,4 @@
 
 ### 마크다운언어
 - 마크다운언어 사용법 [[go →]](study/README.md)
+- 교육학습 숙제      [[go →]](Jupyter/README.md)
