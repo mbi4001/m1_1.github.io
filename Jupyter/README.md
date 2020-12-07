@@ -1,3 +1,3 @@
 # 파이슨 학습
 
-- [ICT & Emerging Technologies](12test.ipynb)
+- [학습내용- 2+2 ](12test.ipynb)
