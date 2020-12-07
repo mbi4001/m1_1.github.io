@@ -1,3 +1,3 @@
 # 파이슨 학습
 
-파이슨 
+- [ICT & Emerging Technologies](12test.ipynb)
