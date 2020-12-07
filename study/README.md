@@ -50,7 +50,4 @@ Title이 표현된 결과 (참고: 테마에 따라 다르게 나타난다.)
 ### 기타
 - 더 다양한 테마를 원한다면: [http://jekyllthemes.org/](http://jekyllthemes.org/)
 
-<br><br><br>
-[← go back to the list](https://HandongHCI.github.io/Tutorials)
-
 
