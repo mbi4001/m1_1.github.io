@@ -1,6 +1,7 @@
-# m1_1.github.io
-### Introduction
+# 메인화면
+### 소개
 
-This Github page is to share knowledge and techniques about HCI-related design and prototyping with students in Handong as well as anyone who is interested in the shared topics.
+마크다운 언어로 작성된 홈페이지
+마크다운은 사용자가 간단한 문법으로 작성된 언어를 html문서로 바꾸어준다
 
-### Courses [[go →]](study/README.md)
+### 마크다운언어 사용 [[go →]](study/README.md)
