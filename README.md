@@ -10,7 +10,7 @@
 
 ### 소스코드 보여주기
 소스코드
-```
+```markdown
   sudo nano /boot/config.txt  
   sudo nano /boot/cmdline.tx
 ```
