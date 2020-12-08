@@ -8,6 +8,13 @@
 - 마크다운언어 사용법 [[go →]](study/README.md)
 - 교육학습 숙제      [[go →]](Jupyter/README.md)
 
+### 소스코드 보여주기
+소스코드
+```
+  sudo nano /boot/config.txt  
+	sudo nano /boot/cmdline.tx
+```
+
 
 ### GitHub Pages 활성화 화면
 ![GitHub Pages 활성화하는 setting 화면 예](img/GithubHomepageSetting.png)
