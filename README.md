@@ -12,7 +12,7 @@
 소스코드
 ```
   sudo nano /boot/config.txt  
-	sudo nano /boot/cmdline.tx
+  sudo nano /boot/cmdline.tx
 ```
 
 
