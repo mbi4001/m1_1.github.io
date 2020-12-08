@@ -7,3 +7,7 @@
 ### 마크다운언어
 - 마크다운언어 사용법 [[go →]](study/README.md)
 - 교육학습 숙제      [[go →]](Jupyter/README.md)
+
+
+### GitHub Pages 활성화 화면
+![GitHub Pages 활성화하는 setting 화면 예](img/GithubHomepageSetting.png)
