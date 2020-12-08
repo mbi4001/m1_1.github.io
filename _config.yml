@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 title: 연습 홈페이지
 description: 연습용 홈페이지, 12
 
+show_GitHub: FALSE
 show_downloads: FALSE
