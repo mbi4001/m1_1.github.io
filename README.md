@@ -16,5 +16,6 @@
 ```
 
 
-### GitHub Pages 활성화 화면
+### 그림파일 보여주기
+GitHub Pages 활성화 화면 
 ![GitHub Pages 활성화하는 setting 화면 예](img/GithubHomepageSetting.png)
